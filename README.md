@@ -1,7 +1,7 @@
 ## Orange Pi - MT7601U Access Point and Station Mode support. 
 This fixes the driver issues for mt7601u
 
-Tested on Armbian 23.02.2 (kernel 5.15.93)
+Tested on Orange Pi PC2, Armbian 23.02.2 (kernel 5.15.93).
 
 
 ### Build module:
